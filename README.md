@@ -8,15 +8,6 @@ Programming paradigms define how you structure and organize your code. They shap
 2. **Procedural Programming**
 3. **Functional Programming**
 
-## 🧱 Object-Oriented Programming (OOP)
-
-### Key Concepts:
-- Organizes code into **objects** (instances of **classes**)
-- Combines data (**properties**) and behavior (**methods**) together
-- Models real-world entities and relationships
-
-# Programming Paradigms
-
 ## Object-Oriented Programming (OOP)
 
 In OOP, you organize your code using **classes** and **objects**:
